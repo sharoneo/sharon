@@ -1,0 +1,33 @@
+謝秀鑫
+Sharon Hsieh連絡資訊
+0937-535654
+
+作品
+https://sharoneo.github.io/gui-github/
+https://github.com/sharoneo/gui-github
+
+
+電子郵件
+sharon@home.com.tw
+
+證照
+SCJP、
+SCWCD、
+70-480:Programming in HTML5 with JavaScript and CSS3
+經歷
+昇頻  - 研發軟體工程師
+2020.10 ~
+GUI 程式撰寫(AngularJS、React.js) 、CGI、CLI 
+
+兆勤科技/合勤科技  - 高級軟體工程師 
+2015.10  ~ 2020.10
+GUI 程式撰寫(ExtJS、AngularJS、Vue.js) 
+
+廣達電腦/達威電子  - 一專
+2006.9  ~ 2015.9 
+GUI 程式撰寫(Javascript、JQuery) 、CGI
+
+技能
+VueJS、ReactJS、AngularJS、ExtJS、HTML、JavaScript、jQuery、CSS、Sass、AJAX、C、CGI
+
+
