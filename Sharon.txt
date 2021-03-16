@@ -2,7 +2,7 @@
 Sharon Hsieh連絡資訊
 0937-535654
 
-作品
+作品(React 練習)
 https://sharoneo.github.io/gui-github/
 https://github.com/sharoneo/gui-github
 
