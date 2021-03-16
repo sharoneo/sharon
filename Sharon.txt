@@ -10,10 +10,7 @@ https://github.com/sharoneo/gui-github
 電子郵件
 sharon@home.com.tw
 
-證照
-SCJP、
-SCWCD、
-70-480:Programming in HTML5 with JavaScript and CSS3
+
 經歷
 昇頻  - 研發軟體工程師
 2020.10 ~
